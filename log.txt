@@ -1,0 +1,1 @@
+update tdd_auction_t set nama='LAPTOP DELL 3460 BROKEN',remark='1 UNIT DELL 3460 BROKEN #292',open_sale=200000,bid_increment=5000,image='2.jpg',date_edit=now(),user_edit= where item_id=292 and auction_id=6
